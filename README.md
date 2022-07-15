@@ -40,6 +40,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ADELK](https://www.frontendmentor.io/profile/adelquis-molinari)
+- github - [@ADELK](https://github.com/adelquis-molinari)
 
